@@ -20,11 +20,19 @@ body {
 
 .descripcion{
   max-width: 920px;
-  /* border: 2px solid #e23; */
+  margin: 0 auto;
+  /* border: 2px solid green; */
+  display: flex;
+  flex-direction: column;
 }
 
+/* img{
+  margin: 0 auto;
+} */
+
 main{
-  width: 95%;
+  /* width: 95%; */
+  margin: 0 auto;
   /* border: 2px solid red; */
 }
 
